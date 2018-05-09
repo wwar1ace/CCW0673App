@@ -3,5 +3,6 @@
     <element label="testTable" max_length="40" name="x_snc_ccw0673app_testtable" type="collection">
         <element label="Email" max_length="100" name="email" type="string"/>
         <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Title" max_length="100" name="title" type="string"/>
     </element>
 </database>
